@@ -1,0 +1,19 @@
+unmanaged implementation in class zbp_i_hcm_master_4159 unique;
+//strict ( 2 );
+
+define behavior for z_i_hcm_master_4159 alias HCMMaster
+//late numbering
+//lock master
+//authorization master ( instance )
+//etag master <field_name>
+
+{
+
+  field ( readonly ) ENumber;
+  field ( mandatory : create ) EName;
+
+  create;
+  update;
+  delete;
+
+}
