@@ -1,4 +1,4 @@
-@AccessControl.authorizationCheck: #NOT_REQUIRED
+@AccessControl.authorizationCheck: #CHECK
 @EndUserText.label: 'Employee'
 define root view entity Z_I_employee_4159 
   as select from zemployee_4159 as Employee 

@@ -5,7 +5,7 @@
    <DDLS>
     <DDLNAME>Z_I_EMPLOYEE_4159</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>HCM - Master</DDTEXT>
+    <DDTEXT>Interface - Employee</DDTEXT>
     <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>

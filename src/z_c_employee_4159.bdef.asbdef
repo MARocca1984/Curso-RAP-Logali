@@ -1,7 +1,8 @@
 projection;
-strict ( 2 );
+use draft;
 
 define behavior for Z_C_EMPLOYEE_4159 alias Employee
+use etag
 
 {
 
